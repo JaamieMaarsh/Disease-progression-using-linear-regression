@@ -2,7 +2,7 @@
 To predict the diabetes progression using Machine learning techniques 
 
 # Diabetes dataset
-# ----------------
+----------------
 
 Ten baseline variables, age, sex, body mass index, average blood
 pressure, and six blood serum measurements were obtained for each of n =
